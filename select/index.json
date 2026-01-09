@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ジェヘナ",
+  "base_artist": "25時、ナイトコードで。",
+  "createdAt": "2026-01-09T06:28:59.395463Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジェヘナ",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/01_ジェヘナ_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジェヘナ (feat. 初音ミク)",
+      "artist": "wotaku",
+      "has_synced": true,
+      "path": "select/02_ジェヘナ_(feat._初音ミク)_wotaku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジェヘナ (feat. 東雲絵名&暁山瑞希&初音ミク)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/pl_01_ジェヘナ_(feat._東雲絵名&暁山瑞希&初音ミク)_25時、ナイトコードで。.txt"
+    }
+  ]
+}
